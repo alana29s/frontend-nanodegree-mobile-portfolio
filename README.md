@@ -60,3 +60,6 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 * Removed Google Open Sans font using basic sans-serif instead
 * Added media query to all print.css
 * Added ascync to perf js in project-2048.html
+* Moved CSS inline for index.html
+* Optimized JS code for updatePosition and changePizzaSlices
+* Put moving pizzas on forced new layer with will-change
