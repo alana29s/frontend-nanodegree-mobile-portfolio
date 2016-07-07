@@ -57,3 +57,6 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 #Optimizations
 
 * Remove Google Analytics code that won't be used for this project
+* Removed Google Open Sans font using basic sans-serif instead
+* Added media query to all print.css
+* Added ascync to perf js in project-2048.html
