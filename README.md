@@ -1,7 +1,7 @@
 # To run project
 
 * download repo and open index.html in your preferred browser
-* or visit https://stonybrookweb.github.io/frontend-nanodegree-mobile-portfolio/
+* or visit https://alana29s.github.io/frontend-nanodegree-mobile-portfolio/
 
 
 #Optimizations
